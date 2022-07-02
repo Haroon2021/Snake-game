@@ -102,8 +102,5 @@ function moveOutcomes() {
 
     document.addEventListener('keyup', control)
     startBtn.addEventListener('click', startGame)
-
-
-
     
 })
